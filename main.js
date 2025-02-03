@@ -33,7 +33,7 @@ const arr = [
     id: "p5",
     img: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/0be0d49a-4dae-408a-8786-afae1dd05cb1.jpg?ts=1707312314",
     name: "Amul Salted Butter",
-    quantity: "100 q",
+    quantity: "100 g",
     price: " ₹60",
   },
 ];
@@ -73,7 +73,7 @@ const arr1 = [
     id: "p5",
     img: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/033d8394-849a-4a07-a712-79a50df9bd51.jpg?ts=1723098570",
     name: "Kettle Studio Patato Chips - Himalyan Pink...",
-    quantity: "113 q",
+    quantity: "113 g",
     price: " ₹99",
   },
 ];
